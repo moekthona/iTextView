@@ -24,7 +24,7 @@ dependencies {
 
 #### Create Folder
 
-- first folder assets -> create ->folder fonts -> add your font
+- first create folder assets -> create ->folder fonts -> add your font
 
 #### XML code 
 ```xml
