@@ -5,19 +5,19 @@ iTextView is library that can custom font on TextView
 
 ### Step 1
 
-```bash
+```
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
 	}
+}
  ```
 
 ### Step 2
-```bash
+```
 dependencies {
-	   implementation 'com.github.moekthona:iTextView:0.0.2'
+	implementation 'com.github.moekthona:iTextView:0.0.2'
 }
  ```
 # Usage
